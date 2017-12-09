@@ -1,5 +1,6 @@
 require 'yaml'
 require_relative 'hello_controller'
+require_relative 'renderer'
 
 class Application
   def initialize
